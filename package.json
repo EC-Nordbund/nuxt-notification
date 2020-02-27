@@ -1,7 +1,7 @@
 {
   "name": "nuxt-notification",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "module.js",
   "repository": "https://github.com/EC-Nordbund/nuxt-notification.git",
   "author": "Sebastian Krüger <2pi_r2@gmx.de>",
   "license": "MIT"
