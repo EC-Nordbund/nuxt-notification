@@ -1,6 +1,6 @@
 import * as path from "path";
 
-const myModule = function(moduleOptions) {
+const notificationModule = function(moduleOptions) {
   const options = {
     requestPermissionImediate: false,
     baseOptions: {},
@@ -14,7 +14,7 @@ const myModule = function(moduleOptions) {
   });
 };
 
-export default myModule;
+export default notificationModule;
 
 // REQUIRED if publishing the module as npm package
 export const meta = require("./package.json");
